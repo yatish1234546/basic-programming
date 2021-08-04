@@ -1,0 +1,40 @@
+// Given an list of object, fetch the persons whose age is more than 50.
+
+
+Sample Input = [
+  {
+    "name": "Name 1",
+    "age": 32
+  },
+  {
+    "name": "Name 2",
+    "age": 55
+  },
+  {
+    "name": "Name 3",
+    "age": 52
+  },
+  {
+    "name": "Name 4",
+    "age": 29
+  },
+  {
+    "name": "Name 5",
+    "age": 26
+  },
+  {
+    "name": "Name 6",
+    "age": 50
+  }
+]
+
+Sample Output= [
+  {
+    "name": "Name 2",
+    "age": 55
+  },
+  {
+    "name": "Name 3",
+    "age": 52
+  }
+]
